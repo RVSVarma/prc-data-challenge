@@ -53,10 +53,10 @@ git push -u origin feature/short-description
 ## Connect to GitHub
 
 Create an empty repository called `prc-data-challenge` in your GitHub account,
-then run the following with your account name substituted for `YOUR_USERNAME`:
+then run the following with your account name substituted for `RVSVarma`:
 
 ```powershell
-git remote add origin https://github.com/YOUR_USERNAME/prc-data-challenge.git
+git remote add origin https://github.com/RVSVarma/prc-data-challenge.git
 git push -u origin main
 ```
 
